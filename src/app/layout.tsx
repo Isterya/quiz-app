@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   description:
     'Create and participate in interactive quizzes with real-time features',
   keywords: ['quiz', 'education', 'interactive', 'online learning'],
-  authors: [{ name: 'Your Name' }],
+  authors: [{ name: 'Bohdan Yevsieiev' }],
   viewport: 'width=device-width, initial-scale=1',
 };
 
