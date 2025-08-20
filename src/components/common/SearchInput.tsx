@@ -1,8 +1,10 @@
+'use client';
+
 import Image from 'next/image';
 
 const SearchInput = () => {
   return (
-    <div className="ml-[98px] flex items-center w-[1163px] h-16 bg-white rounded-[10px] shadow-[0_15px_40px_5px_#ededed] px-[27px] gap-[13px]">
+    <div className="ml-[98px] flex items-center w-[780px] h-16 bg-white rounded-[10px] shadow-[0_15px_40px_5px_#ededed] px-[27px] gap-[13px]">
       <Image
         src="/icons/search.svg"
         alt="Search"
